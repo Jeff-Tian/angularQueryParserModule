@@ -1,1 +1,1 @@
-angular.module("angularQueryParserModule",[]);
+angular.module('angularQueryParserModule', []);
