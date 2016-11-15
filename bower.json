@@ -2,7 +2,7 @@
   "name": "angularQueryParserModule",
   "homepage": "https://github.com/Jeff-Tian/angularQueryParserModule",
   "authors": [
-    "田杰 <jefftian@hcdlearning.com>"
+    "Jeff Tian <jefftian@hcdlearning.com>"
   ],
   "description": "angular module to parse url query string like string.",
   "main": "",
