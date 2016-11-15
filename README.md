@@ -7,6 +7,11 @@ Parse the url query string like string to object
 Run `gulp` before making `git commit`. So the `dist` folder will be updated.
 
 ## Install
+ - Via npm
+```
+npm install angular-query-parser-module --save
+```
+ - Via bower
 ```
 bower install angular-query-parser --save
 ```
